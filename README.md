@@ -27,5 +27,5 @@ I prefer learning by building — I learn best through hands-on projects 🚀
 ## 🔗 Connect With Me
 
 - 🌍 GitHub: [github.com/your-username](https://github.com/your-username)  
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
-- 📧 Email: abdu@example.com
+- 💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/abdurahman-elias-515225256/)
+- 📧 Email: ebdurahman8@gmail.com
