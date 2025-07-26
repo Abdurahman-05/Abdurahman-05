@@ -2,6 +2,10 @@
 <h1 align="center">Hey there! 👋 I'm Abdurahman Elias</h1>
 <h3 align="center">🚀 Full-Stack Web Developer | 🎓 Software Engineering Student | 🌍 Based in Ethiopia</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&width=700&lines=Hi+I%27m+Temkin+Abdulmelik!;Full-Stack+Developer+%7C+React+%2F+Next.js+%2F+MongoDB;Problem+Solver+%26+AI+Enthusiast;Building+Clean+%26+Scalable+Web+Apps;Let%27s+Create+Something+Great+Together!" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 🧠 About Me
