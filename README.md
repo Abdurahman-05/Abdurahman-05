@@ -1,5 +1,5 @@
 <!-- Profile Header --> 
-<h1 align="center">Hey there! 👋 I'm Abdurahman </h1>
+<h1 align="center">Hey there! 👋 I'm Abdurahman Elias</h1>
 <h3 align="center">🚀 Full-Stack Web Developer | 🎓 Software Engineering Student | 🌍 Based in Ethiopia</h3>
 
 <p align="center">
