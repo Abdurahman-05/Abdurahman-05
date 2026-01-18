@@ -22,7 +22,6 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,tailwind,html,css,mongodb,prisma,figma,git" />
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/></a>
@@ -66,12 +65,7 @@
 
 ---
 
-## 🔥 Contribution Streak & Achievements
 
-<!-- <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abdurahman-05&theme=dracula&hide_border=false&border_radius=10" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdurahman-05&theme=dracula&no-frame=false&no-bg=false&margin-w=8&margin-h=8" height="150" />
-</div> -->
 ### 🔥 Contribution Streak
 
 <p align="center">
