@@ -68,9 +68,15 @@
 
 ## 🔥 Contribution Streak & Achievements
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Abdurahman-05&theme=dracula&hide_border=false&border_radius=10" height="150" />
   <img src="https://github-profile-trophy.vercel.app/?username=Abdurahman-05&theme=dracula&no-frame=false&no-bg=false&margin-w=8&margin-h=8" height="150" />
-</div>
+</div> -->
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=fafiyusuf&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
 
 ---
